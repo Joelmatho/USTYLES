@@ -1,0 +1,302 @@
+@-moz-document domain(play2048.co) {
+    /* Feedback button */
+    .game-explanation-container .game-explanation .feedback-button {
+        left: 1190px;
+        color: #ffffff;
+    }
+
+    /* Centred block */
+    #ezmobfooter center {
+        display: none;
+    }
+
+    /* Import Google Fonts */
+    @import url("//fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+    /* Ezoic logo */
+    #ezoic-logo {
+        display: none !important;
+    }
+
+    /* Button */
+    #content .btn-large {
+        border-width: 1px;
+        border-style: none;
+        border-color: rgba(0, 0, 0, 0.28);
+        font-family: Montserrat, sans-serif;
+        background-color: #8f7a66;
+        color: #f9f6f2;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px;
+    }
+
+    /* Heading */
+    #content .et_pb_tab_content h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+        transform: translatex(0px) translatey(0px);
+        color: #776e65;
+    }
+
+    /* Link */
+    .et_pb_tab_content p a {
+        color: #776e65;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: left;
+        font-weight: 700;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    /* Heading */
+    #content h2 {
+        font-weight: 700;
+        color: #776e65;
+    }
+
+    /* Paragraph */
+    #content p {
+        font-family: Montserrat, sans-serif;
+        color: #8c7d68;
+        font-size: 18px;
+        line-height: 1.65em;
+    }
+
+    /* List Item */
+    .et_pb_tab_content ul li {
+        font-weight: 400;
+        font-family: Montserrat, sans-serif;
+        color: #776e65;
+        font-size: 16px;
+        line-height: 1.5em;
+    }
+
+    /* List */
+    #content ul {
+        color: #776e65;
+    }
+
+    /* Th */
+    .et_pb_tab_content p th {
+        color: #8c7d68;
+        border-color: #8f7a66;
+    }
+
+    /* Table Data */
+    .et_pb_tab_content p td {
+        color: #8c7d68;
+        font-size: 16px;
+        border-style: solid;
+        border-color: #8f7a66;
+    }
+
+    /* Table */
+    .et_pb_tab_content p table {
+        border-color: #8f7a66;
+    }
+
+    /* Paragraph */
+    #content p:nth-child(60) {
+        font-weight: 500;
+    }
+
+    /* Paragraph */
+    #content p:nth-child(57) {
+        font-weight: 500;
+    }
+
+
+
+    /* Paragraph */
+    #content p:nth-child(54) {
+        font-weight: 500;
+    }
+
+    /* Heading */
+    .container h1 {
+        font-family: Montserrat, sans-serif;
+        font-weight: 700;
+        color: #776e65;
+        font-size: 80px;
+        line-height: 107px;
+    }
+
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    ::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Link */
+    #suggestions a {
+        font-family: Montserrat, sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.2em;
+    }
+
+    /* Heading */
+    #content .et_pb_tab_content h1 {
+        line-height: 1.33em;
+        font-size: 53px;
+    }
+
+    /* Suggestions */
+    #suggestions {
+        color: #776e65;
+    }
+
+    /* Link */
+    .container p a {
+        font-family: Montserrat, sans-serif;
+        color: #776e65;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.2em;
+    }
+
+    /* Paragraph */
+    .container p {
+        font-family: Montserrat, sans-serif;
+        color: #8c7d68;
+        font-size: 18px;
+        line-height: 1.65em;
+    }
+
+    /* Strong Tag */
+    .container p:nth-child(2) strong {
+        font-size: 24px;
+    }
+
+    /* Paragraph */
+    #content p:nth-child(51) {
+        font-weight: 500;
+    }
+
+    /* Paragraph */
+    #content p:nth-child(48) {
+        font-weight: 500;
+    }
+
+    /* Paragraph */
+    #content p:nth-child(64) {
+        font-weight: 500;
+    }
+
+    /* Paragraph */
+    #content p:nth-child(63) {
+        display: none;
+    }
+
+    /* Column 12/12 */
+    #content {
+        transform: translatex(0px) translatey(0px);
+        border-bottom-right-radius: 3px;
+        background-color: #f8f8e2;
+    }
+
+
+    #logo {
+        display: none;
+    }
+
+    /* Body */
+    body {
+        background-color: #f8f8e2;
+    }
+
+    /* Ezoic */
+    .container .adtester-container .ezoic-ad {
+        display: none !important;
+    }
+
+    /* Adtester container */
+    .container .adtester-container {
+        display: none !important;
+    }
+
+    @media (min-width: 881px) {
+
+        /* Sidebar */
+        .sidebar {
+            display: none;
+        }
+    }
+
+    .ezoic-ad.banner-2138 {
+        margin-bottom: 30px!important;
+        min-width: 160px;
+        text-align: center!important;
+        min-height: 600px;
+        display: none;
+    }
+
+    @media (min-width: 881px) {
+
+        /* Sidebar */
+        .sidebar {
+            display: none;
+        }
+    }
+
+    /* Link */
+    .above-game .game-intro a {
+        text-align: left;
+        text-decoration: none;
+    }
+
+    /* Button */
+    .sharing .pp-donate button {
+        display: none;
+    }
+
+    /* Sharing */
+    .container .sharing {
+        display: none;
+    }
+
+    /* Link */
+    .container p a {
+        text-decoration: none !important;
+    }
+
+    /* Link */
+    .container .links a {
+        text-decoration: none;
+    }
+
+    /* Game container */
+    .container .game-container {
+        background-color: #b5b59f;
+        transform: translatex(0px) translatey(0px);
+    }
+
+    /* Grid cell */
+    .grid-container .grid-cell {
+        background-color: rgba(255, 255, 255, 0.35);
+    }
+
+    /* Tile inner */
+    .tile-container .tile-new .tile-inner {
+        background-color: #e5cfc7;
+    }
+
+    @media (min-width: 521px) {
+
+        /* Donate */
+        .container .sharing .btc-donate {
+            display: none;
+        }
+
+        /* Score container */
+        .heading .score-container {
+            padding-bottom: 20px;
+        }
+
+        /* Best container */
+        .heading .best-container {
+            padding-bottom: 20px;
+        }
+    }
+}
