@@ -1,0 +1,54 @@
+@-moz-document domain(hackertyper.com) {
+	/* Heading */
+	#settings div h3 {
+		color: #50b450;
+	}
+
+	/* Division */
+	#settings div {
+		color: #50b450;
+		text-align: center;
+	}
+
+	.outer {
+		color: #50b450;
+		margin: auto;
+		min-height: 99%;
+		margin-top: 0px;
+		text-align: left;
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+
+	/* Heading */
+	#settings h1 {
+		color: #4db64d;
+		text-align: center;
+	}
+
+	/* Settings */
+	#settings-btn {
+		color: #50b450;
+		text-align: center;
+		top: 0%;
+		left: 34%;
+	}
+
+	/* Settings */
+	#settings {
+		color: #50b450;
+		border-color: #50b450;
+		transform: translatex(0px) translatey(0px);
+		left: 322px;
+	}
+
+	/* Inverse */
+	#menu .inverse {
+		display: none;
+	}
+
+	/* Menu */
+	#menu {
+		display: none;
+	}
+}
