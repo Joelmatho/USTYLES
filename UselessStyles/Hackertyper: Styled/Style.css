@@ -10,6 +10,11 @@
 		text-align: center;
 	}
 
+	/* Settings */
+	#settings {
+		left: 400px !important;
+	}
+
 	.outer {
 		color: #50b450;
 		margin: auto;
