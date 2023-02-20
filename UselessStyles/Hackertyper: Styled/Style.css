@@ -15,6 +15,11 @@
 		left: 400px !important;
 	}
 
+	/* Hide scrollbar for Chrome, Safari and Opera */
+	::-webkit-scrollbar {
+		display: none;
+	}
+
 	.outer {
 		color: #50b450;
 		margin: auto;
