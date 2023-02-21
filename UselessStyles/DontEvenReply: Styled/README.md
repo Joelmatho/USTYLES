@@ -1,4 +1,4 @@
-# DontEvenReply: Styled https://img.shields.io/badge/Bugs-0-green
+# DontEvenReply: Styled
 
 ## Description
 We've recently updated the website with a range of improvements designed to create a more comfortable and engaging experience for visitors. These updates include the addition of a dark mode, which provides an alternative color scheme that can be easier on the eyes and more energy-efficient, as well as the removal of the scrollbar to create a smoother and more immersive browsing experience that eliminates distractions. In addition, we've removed all ads from the website to create a more informative and engaging experience with high-quality content that meets visitors' needs. These updates are aimed at creating a more user-friendly and engaging experience for visitors, with a focus on enhancing usability, aesthetics, and content quality.
