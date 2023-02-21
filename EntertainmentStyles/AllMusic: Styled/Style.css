@@ -1,0 +1,992 @@
+@-moz-document domain("allmusic.com") {
+	/* Max header */
+	.overflow-container .max-header {
+		background-image: none;
+		transform: translatex(0px) translatey(0px);
+		background-color: transparent;
+	}
+
+	/* Advanced search link */
+	.nav-contain .top-nav-item .advanced-search-link {
+		font-family: PlutoSansCondMedium, Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+
+	/* Lastname */
+	#lastname {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Overflow container */
+	.overflow-container {
+		background-color: #3b3b3b;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Wrap */
+	#cmn_wrap {
+		background-color: #3b3b3b !important;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Image */
+	.new-release-newsletter-promo-tile a img {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Medium rectangle atf */
+	#cmn_wrap .sidebar .medium-rectangle-atf {
+		display: none;
+	}
+
+	/* Heading */
+	.sidebar .album-list h2 {
+		color: #ffffff;
+	}
+
+	/* Rel date */
+	.album-list div .rel-date {
+		color: #ffffff;
+	}
+
+	/* Link */
+	.album-list .artist a {
+		color: #6d6d6d;
+	}
+
+	/* Link */
+	.album-list .title a {
+		color: #8c8c8c;
+	}
+
+	/* Image */
+	.album-list div img {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Cropped image link */
+	.album-list div .cropped-image-link {
+		border-top-right-radius: 5px;
+		border-top-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Table cell */
+	.album-list div .table-cell {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		border-style: none !important;
+	}
+
+	/* Overflow container */
+	.overflow-container {
+		background-color: #3b3b3b !important;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Top headline */
+	#cmn_wrap .discover-genre .top-headline {
+		color: #ffffff;
+	}
+
+	/* Span Tag */
+	#cmn_wrap .discover-genre div span {
+		color: #ffffff;
+	}
+
+	/* Desc text */
+	#cmn_wrap .genre-desc .desc-text {
+		color: #ffffff;
+	}
+
+	/* Heading */
+	#cmn_wrap .genre-info h2 {
+		color: #ffffff;
+	}
+
+	/* Span Tag */
+	.mood-discover .headline span {
+		color: #ffffff;
+	}
+
+	/* Paragraph */
+	.mood-discover .mood-desc p {
+		color: #ffffff;
+	}
+
+	/* Discover mood */
+	#cmn_wrap .mood-discover .discover-mood {
+		background-color: transparent;
+	}
+
+	/* Cropped image */
+	.mood-discover .cover .cropped-image {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Info */
+	.mood-discover .album-grid .info {
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		border-top-right-radius: 0px;
+	}
+
+	/* Span Tag */
+	.theme-discover .headline span {
+		color: #ffffff;
+	}
+
+	/* Paragraph */
+	.theme-discover .theme-desc p {
+		color: #ffffff;
+	}
+
+	/* Discover theme */
+	#cmn_wrap .theme-discover .discover-theme {
+		background-color: transparent;
+	}
+
+	/* Link */
+	.theme-discover .headline a {
+		color: #a5a5a5;
+	}
+
+	/* Link */
+	.theme-discover h3 a {
+		color: #a5a5a5;
+	}
+
+	/* Link */
+	.mood-discover h3 a {
+		color: #a5a5a5;
+	}
+
+	/* Link */
+	.mood-discover .headline a {
+		color: #a5a5a5;
+	}
+
+	/* Link */
+	#genre-grid-contain ul a {
+		color: #a5a5a5;
+	}
+
+	/* Link */
+	.genre-desc .read-more a {
+		color: #a5a5a5;
+	}
+
+	/* Link */
+	#cmn_wrap .discover-genre .headline a {
+		color: #a5a5a5;
+	}
+
+	/* Discover genre */
+	#cmn_wrap .discover-genre {
+		background-color: transparent;
+	}
+
+	/* Link */
+	#cmn_wrap .see-all-link a {
+		color: #a5a5a5;
+	}
+
+	/* Link */
+	#cmn_wrap .top-headline a {
+		color: #a5a5a5;
+	}
+
+	/* Link */
+	.headline-right h3 a {
+		color: #a5a5a5;
+	}
+
+	/* Adv search sidebar */
+	.adv-search-discover .discover-adv-search .adv-search-sidebar {
+		color: #ffffff;
+		background-color: #3b3b3b;
+	}
+
+	/* Link */
+	.headline-left h2 a {
+		color: #ffffff !important;
+	}
+
+	/* Sidebar adv search genre */
+	#sidebar-adv-search-genre {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Sidebar adv search rating */
+	#sidebar-adv-search-rating {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Sidebar adv search date */
+	#sidebar-adv-search-date {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Sidebar adv search mood */
+	#sidebar-adv-search-mood {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Sidebar adv search theme */
+	#sidebar-adv-search-theme {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Articles module */
+	.blog-homepage .articles .articles-module {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		background-color: transparent;
+		display: inline-block;
+		transform: translatex(0px) translatey(0px) !important;
+	}
+
+	/* Featured article image */
+	.blog-homepage .articles .featured-article-image {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		background-color: transparent;
+	}
+
+	/* Image */
+	.articles .articles-module .featured-article-image a img {
+		border-top-left-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Medium rectangle atf */
+	.blog-homepage .clearfix .medium-rectangle-atf {
+		display: none;
+	}
+
+	/* Medium rectangle */
+	.blog-homepage .clearfix .medium-rectangle-btf {
+		display: none;
+	}
+
+	/* Streams */
+	.blog-homepage .clearfix .streams {
+		position: relative;
+		left: 14px;
+		background-color: transparent;
+	}
+
+	/* Interviews */
+	.blog-homepage .clearfix .interviews {
+		background-color: transparent;
+		border-style: none;
+	}
+
+	/* Link */
+	.streams h2 a {
+		color: #ffffff !important;
+		font-weight: 400;
+	}
+
+	/* Link */
+	.interviews h2 a {
+		color: #ffffff !important;
+	}
+
+	/* Lists */
+	.blog-homepage .clearfix .lists {
+		background-color: transparent;
+	}
+
+	/* Link */
+	.lists h2 a {
+		color: #ffffff !important;
+	}
+
+	/* Featured articles list */
+	.blog-homepage .articles .featured-articles-list {
+		background-color: #3b3b3b;
+	}
+
+	/* Heading */
+	#cmn_wrap h1 {
+		color: #ffffff;
+	}
+
+	/* Results */
+	#cmn_wrap .results {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+
+	/* Input */
+	.sidebar .text-filter input[type=text] {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Hide scrollbar for Chrome, Safari and Opera */
+	::-webkit-scrollbar {
+		display: none;
+	}
+
+	/* Paragraph */
+	#cmn_wrap header p {
+		color: #ffffff;
+	}
+
+	/* Recent releases */
+	#cmn_wrap .sidebar .recent-releases {
+		background-color: transparent;
+	}
+
+	/* Heading */
+	.sidebar .recent-releases h3 {
+		color: #ffffff;
+	}
+
+	/* List Item */
+	.sidebar ul li {
+		color: #ffffff;
+	}
+
+	/* Average */
+	.sidebar ul .average {
+		color: #ffffff !important;
+	}
+
+	/* Allmusic */
+	.sidebar ul .allmusic {
+		color: #ffffff !important;
+	}
+
+	/* Link */
+	.sidebar .artist a {
+		color: #cccccc;
+	}
+
+	/* Link */
+	.sidebar .title a {
+		color: #ffffff;
+	}
+
+	/* Link */
+	.tabs .tab a {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+	}
+
+	/* List Item */
+	#cmn_wrap .tabs li {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+	}
+
+	/* Artist highlights */
+	#cmn_wrap .artist-highlights {
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Album highlights */
+	#cmn_wrap .album-highlights {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		background-color: transparent;
+	}
+
+	/* Heading */
+	#cmn_wrap .album-highlights h2 {
+		color: #ffffff;
+	}
+
+	/* Cropped image */
+	#cmn_wrap .clearfix .cropped-image-link .cropped-image {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Info */
+	.album-highlights .clearfix .info {
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Link */
+	.album-highlights h4 a {
+		color: #939393 !important;
+	}
+
+	/* Song highlights */
+	#cmn_wrap .song-highlights {
+		background-color: transparent;
+	}
+
+	/* Heading */
+	#cmn_wrap .song-highlights h2 {
+		color: #ffffff;
+	}
+
+	/* Stream */
+	#cmn_wrap thead .stream {
+		color: #ffffff;
+	}
+
+	/* Performer */
+	#cmn_wrap thead .performer {
+		color: #ffffff;
+	}
+
+	/* Title */
+	#cmn_wrap thead .title {
+		color: #ffffff;
+	}
+
+	/* Link */
+	#cmn_wrap .performer a {
+		color: #a0a0a0;
+	}
+
+	/* Link */
+	#cmn_wrap tr .title a {
+		color: #9b9b9b;
+	}
+
+	/* All new releases */
+	#cmn_wrap .all-new-releases {
+		background-color: transparent;
+	}
+
+	/* Artist */
+	.overflow-container #cmn_wrap .content-container .content .all-new-releases .nr-table tbody tr .artist {
+		color: #adadad !important;
+	}
+
+	/* Label */
+	.nr-table tbody .label {
+		color: #bfbfbf;
+	}
+
+	/* Album */
+	.nr-table tbody .album {
+		color: #7c7c7c;
+	}
+
+	/* Link */
+	.nr-table tbody .artist a {
+		color: #b5b5b5 !important;
+	}
+
+	/* Link */
+	.nr-table tbody .album a {
+		color: #e0e0e0;
+	}
+
+	/* Label */
+	.overflow-container #cmn_wrap .content-container .content .all-new-releases .nr-table tbody tr .label {
+		color: #9f9d9d !important;
+	}
+
+	/* Link */
+	.middleleft div a {
+		color: #727272 !important;
+	}
+
+	/* Link */
+	#all-moods-grid-desktop .left div a {
+		color: #727272 !important;
+	}
+
+	/* Link */
+	.middleright div a {
+		color: #727272 !important;
+	}
+
+	/* Link */
+	#all-moods-grid-desktop .right div a {
+		color: #727272 !important;
+	}
+
+	/* All moods list */
+	#all-moods-list {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Link */
+	.song-highlights h4 a {
+		color: #919191 !important;
+	}
+
+	/* Mapping */
+	#cmn_wrap .mapping {
+		background-color: transparent;
+	}
+
+	/* Heading */
+	#cmn_wrap .mapping h2 {
+		color: #ffffff;
+	}
+
+	/* Blog entries */
+	#cmn_wrap .sidebar .blog-entries {
+		border-top-right-radius: 5px;
+		border-top-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Span Tag */
+	#cmn_wrap h3 span {
+		color: #cccccc;
+	}
+
+	/* Performer */
+	#cmn_wrap tbody .performer {
+		color: #a0a0a0;
+	}
+
+	/* Link */
+	.desktop-only li a {
+		color: #8c8c8c;
+	}
+
+	/* Link */
+	.mapping .headline a {
+		color: #a3a3a3;
+	}
+
+	/* Span Tag */
+	.desktop-only li span {
+		color: #adadad;
+	}
+
+	/* Genre toggle */
+	.desktop-only li .genre-toggle {
+		color: #6d6d6d;
+	}
+
+	/* Cropped image */
+	.sidebar ul .cropped-image {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Cropped image */
+	.artist-highlights .clearfix .cropped-image {
+		border-top-right-radius: 10px;
+		border-top-left-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Text filter */
+	.sidebar .filter .text-filter {
+		background-color: transparent;
+		box-shadow: 0px 12px 0px -2px rgba(255, 255, 255, 0.9);
+	}
+
+	/* Options */
+	.sidebar .filter .options {
+		background-color: transparent;
+		color: #ffffff;
+	}
+
+	/* Label */
+	.sidebar .genre label {
+		color: #ffffff;
+	}
+
+	/* Pull down */
+	.sidebar .filter .pull-down {
+		background-color: #3b3b3b;
+		box-shadow: 0px -12px 0px -2px rgba(255, 255, 255, 0.9);
+	}
+
+	/* Intro text */
+	#cmn_wrap .results .intro-text {
+		border-bottom-right-radius: 5px;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+
+	/* Header */
+	.sidebar .filter header {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		background-color: #25aae1;
+	}
+
+	/* Filter */
+	#cmn_wrap .sidebar .filter {
+		background-color: transparent;
+		padding-left: 0px;
+		margin-left: -3px;
+		margin-top: 7px;
+	}
+
+	/* Link */
+	.blog-homepage h1 a {
+		color: #ffffff !important;
+	}
+
+	/* Link */
+	.blog-homepage h2 a {
+		color: #ffffff !important;
+	}
+
+	/* Mobile featured */
+	.blog-homepage .mobile-featured {
+		display: none !important;
+	}
+
+	/* Content wrapper */
+	#cmn_wrap .content-wrapper {
+		background-color: #3b3b3b !important;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Button */
+	#cmn_wrap form .login_email {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Image */
+	.interviews a img {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Mobile streams */
+	.blog-homepage .clearfix .mobile-streams {
+		display: none;
+	}
+
+	/* Overflow container */
+	.overflow-container {
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Mobile interviews */
+	.blog-homepage .clearfix .mobile-interviews {
+		display: none;
+	}
+
+	/* Mobile lists */
+	.blog-homepage .clearfix .mobile-lists {
+		display: none;
+	}
+
+
+	/* Cropped image */
+	.genre-album-thumbs .cover .cropped-image {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Button */
+	#adv-search-submit {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Cropped image */
+	.theme-discover .cover .cropped-image {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Info */
+	.theme-discover .album-grid .info {
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Link */
+	#cmn_wrap .new-release .image-container a {
+		border-style: none;
+	}
+
+	/* Image container */
+	#cmn_wrap .new-release .image-container {
+		border-style: none;
+	}
+
+	/* New release */
+	#cmn_wrap .new-release {
+		border-style: none;
+	}
+
+	/* New release items container */
+	#cmn_wrap .new-release-items-container {
+		border-style: none;
+	}
+
+	/* Cropped image */
+	#cmn_wrap .new-release .cropped-image {
+		border-style: none;
+	}
+
+
+	/* Content container */
+	#cmn_wrap .content-container {
+		background-color: transparent;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Content Division */
+	#cmn_wrap .content {
+		background-color: #3b3b3b;
+	}
+
+	/* Featured new releases */
+	#cmn_wrap .featured-new-releases {
+		background-color: #3b3b3b;
+	}
+
+	/* Album list */
+	#cmn_wrap .sidebar .album-list {
+		background-color: transparent;
+	}
+
+	/* Headline review */
+	#cmn_wrap .new-release .headline-review {
+		color: #ffffff;
+	}
+
+	/* Meta container */
+	#cmn_wrap .new-release .meta-container {
+		color: #ffffff;
+	}
+
+	/* Link */
+	#cmn_wrap .genres a {
+		color: #9e9e9e;
+	}
+
+	/* Allmusic rating */
+	#cmn_wrap .new-release .allmusic-rating {
+		color: #ffffff;
+	}
+
+	/* Link */
+	#cmn_wrap .new-release .title a {
+		color: #757575;
+	}
+
+	/* Link */
+	#cmn_wrap .new-release .artist a {
+		color: #6b6b6b;
+	}
+
+	/* Banner */
+	#cmn_wrap .new-release .banner {
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		background-color: rgba(183, 71, 71, 0);
+	}
+
+	/* Cropped image */
+	#cmn_wrap .new-release .cropped-image {
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		border-top-right-radius: 5px;
+		border-top-left-radius: 5px;
+		border-style: none;
+		background-color: transparent;
+	}
+
+	/* Image container */
+	#cmn_wrap .new-release .image-container {
+		border-style: none;
+	}
+
+
+
+	/* Filter */
+	#cmn_wrap .filter-nav .filter-by {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Jump */
+	#cmn_wrap .filter-nav .jump-to {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Select */
+	#cmn_wrap .filter-by select {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Select */
+	#cmn_wrap .jump-to select {
+		background-color: #ffffff;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Heading */
+	#cmn_wrap .top h1 {
+		color: #ffffff;
+	}
+
+
+	/* User nav */
+	.main-nav .user-social-nav .user-nav {
+		font-family: PlutoSansCondMedium, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+	}
+
+	/* Password */
+	#password {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Password confirm */
+	#password_confirm {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Email confirm */
+	#email_confirm {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Email */
+	#email {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Firstname */
+	#firstname {
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+
+	/* Button */
+	#login-google a {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Button */
+	#login-fb a {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Button */
+	.register-via-form form .signup_email {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Sub nav outer container */
+	.nav-contain .top-nav-item .sub-nav-outer-container {
+		background-color: rgba(0, 0, 0, 0.23) !important;
+	}
+
+	/* Content wrapper */
+	#cmn_wrap .content-wrapper {
+		transform: translatex(0px) translatey(0px);
+		background-blend-mode: normal;
+		background-color: #9b9b9b;
+		background-repeat: repeat-x;
+	}
+
+	/* Wrap */
+	#cmn_wrap {
+		backdrop-filter: blur(9.48px);
+	}
+}
