@@ -1,0 +1,191 @@
+@-moz-document domain("theuselessweb.com") {
+	/* Body */
+	body {
+		background-color: #3b3b3b;
+	}
+
+	/* Hgroup */
+	hgroup {
+		color: #ffffff;
+	}
+
+	/* Heading */
+	hgroup h1 {
+		color: #ffffff;
+	}
+
+	/* Hide scrollbar for Chrome, Safari and Opera */
+	::-webkit-scrollbar {
+		display: none;
+	}
+
+	/* Joint */
+	#joint {
+		color: #ffffff;
+	}
+
+	/* Heading */
+	hgroup h3 {
+		color: #ffffff;
+	}
+
+	/* Heading */
+	.card .header h1 {
+		color: #565656;
+		font-size: 26px;
+	}
+
+	/* Paragraph */
+	.card .body p {
+		color: #2d2d2d;
+		font-size: 20px;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Back link */
+	#back-link {
+		color: #474747;
+	}
+
+	/* Link */
+	.body p a {
+		color: #474747;
+	}
+
+	/* Heading */
+	hgroup h4 {
+		color: #ffffff;
+	}
+
+	/* Heading */
+	hgroup h5 {
+		color: #ffffff;
+	}
+
+	/* Button */
+	#button {
+		color: #ffffff;
+	}
+
+	/* Details */
+	.wrapper article .details {
+		background-color: #515151;
+	}
+
+	/* Paragraph */
+	.wrapper .intro p {
+		color: #ffffff;
+	}
+
+	/* List */
+	article ul {
+		color: #ffffff;
+	}
+
+	/* Heading */
+	.wrapper .title h1 {
+		color: #c9c9c9;
+	}
+
+	/* Paragraph */
+	.wrapper .details p {
+		color: #ffffff;
+	}
+
+	/* Link */
+	.content p a {
+		color: #bcbcbc;
+	}
+
+	/* Heading */
+	article h3 {
+		font-family: 'Work Sans' !important;
+		color: #ffffff;
+		font-size: 24px;
+		line-height: 32px;
+	}
+
+	/* Heading */
+	article h2 {
+		font-family: 'Work Sans';
+		color: #ffffff;
+		font-size: 24px;
+	}
+
+	/* Button */
+	.wrapper .details p a {
+		color: #bcbcbc;
+	}
+
+	/* Strong Tag */
+	.wrapper p strong {
+		color: #ffffff;
+	}
+
+	/* Paragraph */
+	.wrapper article .content p {
+		color: #ffffff;
+	}
+
+	/* Heading */
+	article h1 {
+		color: #ffffff;
+	}
+
+	/* Paragraph */
+	article p {
+		color: #ffffff;
+	}
+
+	/* Heading */
+	article h2 {
+		color: #ffffff;
+		font-size: 24px;
+	}
+
+
+	/* Link */
+	.wrapper article .content p a {
+		color: #bcbcbc;
+	}
+
+	/* Footer */
+	.wrapper footer {
+		background-color: #6d6d6d;
+	}
+
+	/* Paragraph */
+	.wrapper footer p {
+		color: #ffffff;
+	}
+
+	/* Link */
+	.contents p a {
+		color: #bcbcbc;
+	}
+
+	/* Link */
+	.wrapper .pagination a {
+		background-color: #fd2450;
+	}
+
+	/* Sharing */
+	.sharing {
+		background-color: #333333;
+	}
+
+	/* Link */
+	.sharing .more a {
+		color: #ffffff;
+	}
+
+	/* Link */
+	.buttons .links a {
+		color: #ffffff;
+	}
+
+	/* Links */
+	.sharing .buttons .links {
+		color: #ffffff;
+	}
+}
