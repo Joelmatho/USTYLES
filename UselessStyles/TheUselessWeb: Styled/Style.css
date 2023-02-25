@@ -9,6 +9,16 @@
 		color: #ffffff;
 	}
 
+	/* Unit */
+	.unit {
+		display: none;
+	}
+
+	/* Body */
+	body {
+		min-height: 637px;
+	}
+
 	/* Heading */
 	hgroup h1 {
 		color: #ffffff;
