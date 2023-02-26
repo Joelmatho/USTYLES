@@ -1,4 +1,4 @@
-# My Stylus Userstyles Repository
+# Stylus Userstyles Repository
 
 Welcome to my collection of userstyles for the Stylus browser extension! My name is [Your Name], and as a web design hobbyist, I've created this repository to share my custom CSS styles for various websites that I frequent or use.
 
