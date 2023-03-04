@@ -1,0 +1,1071 @@
+@-moz-document domain("bestonlinekidsgames.com") {
+	/* Division */
+	center .adsbygoogle div {
+		display: none !important;
+	}
+
+	/* Division */
+	#progressbar div {
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080698008989073418/ui-bg_flat_7_0b1f37_40x100.png");
+		background-color: #ffffff;
+		color: #ffffff;
+	}
+
+	/* Button modern */
+	#broken .button-modern {
+		box-shadow: none;
+	}
+
+	/* Comment form submit */
+	#comment_form_submit {
+		box-shadow: none;
+	}
+
+	/* Division */
+	#progressbar div {
+		background-color: transparent !important;
+		background-size: auto;
+		border-style: solid;
+		border-color: #ffffff;
+	}
+
+
+	/* Progress label */
+	#progressbar .progress-label {
+		color: #000000;
+	}
+
+	/* Text Area */
+	#broken textarea {
+		color: #ffffff !important;
+	}
+
+
+	/* Input */
+	#fld_pwd {
+		background-color: transparent !important;
+		color: #ffffff !important;
+		border-style: solid;
+		border-color: #ffffff !important;
+	}
+
+	/* Username */
+	#fld_username {
+		color: #ffffff !important;
+		background-color: transparent !important;
+		border-color: #ffffff !important;
+	}
+
+	/* Lable remember */
+	#RegBox div .lable_remember {
+		color: #ffffff;
+	}
+
+	/* Link */
+	#wrapper p a {
+		color: #ffffff !important;
+		text-decoration: none;
+		font-weight: 700;
+	}
+
+	/* Link (hover) */
+	#wrapper p a:hover {
+		color: #d6d6d6 !important;
+	}
+
+	/* Image (hover) */
+	#wrapper p img:hover {
+		opacity: 0.78;
+	}
+
+	/* Input */
+	#RegBox div input[type=checkbox] {
+		position: relative;
+		top: 0px;
+	}
+
+	/* Clear */
+	#RegBox div .clear {
+		color: #ffffff !important;
+		text-decoration: none;
+	}
+
+	/* Link register */
+	#RegBox div a.link_register {
+		color: #ffffff !important;
+		text-decoration: none;
+	}
+
+	/* Input */
+	#RegBox div input[type=button] {
+		background-image: none;
+		background-color: transparent;
+		border-style: solid;
+		border-color: #ffffff;
+		box-shadow: none;
+		color: #ffffff;
+		text-shadow: none;
+		text-decoration: none;
+	}
+
+	/* Reg box */
+	#RegBox {
+		box-shadow: 0px 2px 13px -5px #000000;
+		border-style: none;
+		border-color: #ffffff;
+	}
+
+	/* Heading */
+	#RegBox h2 {
+		text-align: center;
+	}
+
+
+
+
+	/* Input */
+	#broken p input[type=text] {
+		color: #ffffff !important;
+	}
+
+	/* Broken */
+	#broken {
+		color: #ffffff;
+	}
+
+	/* Comment form name */
+	#comment_form_name {
+		color: #ffffff !important;
+	}
+
+	/* Captcha form */
+	#captcha-form {
+		color: #ffffff !important;
+	}
+
+	/* Comment form submit */
+	#comment_form_submit {
+		opacity: 0.74;
+	}
+
+	/* Button modern (hover) */
+	#broken .button-modern:hover {
+		background-color: rgba(255, 255, 255, 0.2);
+		color: #ededed;
+		border-color: #ededed;
+	}
+
+	/* Progressbar */
+	#progressbar {
+		border-style: solid;
+		border-color: #ffffff;
+	}
+
+	/* Image */
+	#tabs .gamedesc a img {
+		border-style: solid;
+		border-color: #ffffff;
+	}
+
+	/* Comment form email */
+	#comment_form_email {
+		color: #ffffff !important;
+	}
+
+	/* Comment form */
+	#comment_form {
+		color: #ffffff;
+	}
+
+	/* Division */
+	.ltr a div {
+		background-size: cover;
+	}
+	/* Fulls
+	c icon (hover) */
+	#game-header .fullsc-icon:hover {
+		transform: scale(1.17);
+		opacity: 0.8;
+	}
+
+	/* Image */
+	#logo a img {
+		opacity: 0.83;
+	}
+
+
+	/* Text Area */
+	#broken textarea {
+		border-color: #ffffff !important;
+	}
+
+	/* Box shadow */
+	#container div .box-shadow {
+		background-color: transparent;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Heading */
+	#container div h2 {
+		color: #ffffff;
+	}
+
+	/* List Item */
+	#wrapper .tags li {
+		background-color: #ffffff;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	/* Link */
+	#container div .box-shadow div .tags li div div a {
+		color: #000000 !important;
+	}
+
+	/* Link */
+	.tags div div a {
+		font-weight: 700;
+	}
+
+	/* Division */
+	.tags li:nth-child(3) div div:nth-child(2) {
+		color: #383838;
+		font-weight: 600;
+	}
+
+	/* Tags */
+	#wrapper div .tags {
+		color: #000000;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Input */
+	#broken p input[type=text] {
+		border-color: #ffffff !important;
+	}
+
+	/* Button modern (hover) */
+	#broken .button-modern:hover {
+		opacity: 0.8;
+	}
+
+	/* Comment form name */
+	#comment_form_name {
+		border-color: #ffffff !important;
+	}
+
+	/* Captcha form */
+	#captcha-form {
+		border-color: #ffffff !important;
+	}
+
+
+	/* Comment form email */
+	#comment_form_email {
+		border-color: #ffffff !important;
+	}
+
+	/* Label */
+	#comment_form label {
+		font-weight: 500;
+	}
+
+	/* Division */
+	#comment_form .ltr {
+		background-color: transparent;
+		border-color: #ffffff !important;
+		color: #ffffff;
+	}
+
+	/* Iframe */
+	#comment_form .ltr iframe {
+		background-color: transparent;
+		color: #ffffff;
+	}
+
+	/* Division */
+	#comment_form .ltr > div {
+		color: #ffffff;
+		background-color: transparent;
+		border-style: none;
+	}
+
+	/* Division */
+	#wrapper #container #playgamebigbox .box_tab .left div div #tabs > div {
+		transform: translatex(0px) translatey(0px) !important;
+	}
+
+	/* Division */
+	.ltr a div {
+		background-image: url("https://www.bestonlinekidsgames.com/application/plugin/pengu_comment/bbeditor/minified/themes/famfamfam.png");
+	}
+
+	/* Tabs */
+	#tabs {
+		padding-bottom: 35px;
+	}
+
+
+
+
+	/* Rateyes (hover) */
+	#rateyes:hover {
+		opacity: 0.8;
+		transform: scale(1.11);
+	}
+
+	/* Rateno */
+	#rateno:hover {
+		transform: scale(1.11);
+		opacity: 0.8;
+	}
+
+	/* Search */
+	#search {
+		background-color: rgba(155, 155, 155, 0.71) !important;
+	}
+
+	/* Top games (hover) */
+	#topmenu a .topGames:hover {
+		transform: scale(1.17);
+	}
+
+	/* New games (hover) */
+	#topmenu a .newGames:hover {
+		transform: scale(1.17);
+	}
+
+	/* Best games (hover) */
+	#topmenu a .bestGames:hover {
+		transform: scale(1.17);
+	}
+
+	/* Addtofav */
+	#addtofav:hover {
+		opacity: 0.8;
+		transform: scale(1.17);
+	}
+
+
+	/* Menu item name */
+	.dropdown li .menuItemName {
+		text-align: center;
+		font-size: 18px;
+	}
+
+	/* Bold Tag */
+	#GameTitle b {
+		color: #ffffff;
+	}
+
+	/* Play store link (hover) */
+	#play-store-link:hover {
+		opacity: 0.74;
+	}
+
+	/* Little arrow (hover) */
+	#littleArrow:hover {
+		opacity: 0.74;
+	}
+
+	/* Game videos icon (hover) */
+	#game-videos-icon:hover {
+		opacity: 0.74;
+	}
+
+	/* Span Tag (hover) */
+	.facebook a span:hover {
+		opacity: 0.74;
+	}
+
+	/* Span Tag (hover) */
+	.twitter a span:hover {
+		opacity: 0.74;
+	}
+
+	/* Span Tag (hover) */
+	.gplus a span:hover {
+		opacity: 0.74;
+	}
+
+	/* Search button (hover) */
+	#search_button:hover {
+		opacity: 0.74;
+	}
+
+	/* Game box */
+	#GameBox {
+		background-color: transparent;
+	}
+
+	/* Fullsc icon */
+	#game-header .fullsc-icon {
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080403270935257168/fullscreen.png");
+		background-size: cover;
+	}
+
+	/* Addtofav */
+	#addtofav {
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080403271212077126/star_1.png");
+		background-size: cover;
+	}
+
+	/* Link (hover) */
+	#tabs ul a:hover {
+		background-color: #5e5e5e;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Link (active) */
+	#tabs ul a:active {
+		background-color: #5e5e5e;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	/* Little arrow (hover) */
+	#littleArrow:hover {
+		background-repeat: repeat;
+		opacity: 0.7;
+	}
+
+	/* Span Tag */
+	#search_box .search_link span {
+		color: #ffffff;
+	}
+
+	/* Footer wrap */
+	#footer-wrap {
+		background-color: rgba(59, 59, 59, 0.89);
+		backdrop-filter: blur(2px);
+		color: #ffffff;
+	}
+
+	/* Division */
+	#playgamebigbox > div:nth-child(1) {
+		display: none;
+	}
+
+	/* Division */
+	#playgamebigbox > div:nth-child(5) {
+		display: none;
+	}
+
+	/* Game box */
+	#GameBox {
+		width: 2159px !important;
+		transform: translatex(0px) translatey(0px);
+		left: 259px;
+		margin-top: 22px;
+	}
+
+	/* Related */
+	#Related {
+		display: none;
+	}
+
+	/* Adsbygoogle */
+	#playgamebigbox div .adsbygoogle {
+		display: none !important;
+	}
+
+	/* Tabs */
+	#tabs {
+		margin-bottom: 57px;
+		border-style: none;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		transform: translatex(0px) translatey(0px);
+		background-color: #686868;
+		background-image: none;
+	}
+
+	/* List Item */
+	#tabs ul li {
+		background-image: none;
+		background-color: transparent;
+		border-style: none;
+	}
+
+	/* Iframe */
+	#tabs .gamedesc iframe {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Rateno */
+	#rateno {
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080357790863863891/thumbs-down.png");
+		background-size: cover;
+		width: 30px;
+		height: 30px;
+		position: relative;
+		top: -8px;
+	}
+
+	/* Rateyes */
+	#rateyes {
+		position: relative;
+		left: -152px;
+		top: -25px;
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080357790540890172/thumbs-down_1.png");
+		background-size: cover;
+		width: 30px;
+		height: 30px;
+	}
+
+	/* Progress label */
+	#progressbar .progress-label {
+		text-shadow: none;
+	}
+
+	/* Image */
+	#tabs .gamedesc a img {
+		position: relative;
+		left: 1px;
+		top: -8px;
+	}
+
+	/* Image */
+	#tabs p a img {
+		display: none;
+	}
+
+	/* Division */
+	#tabs > div > div {
+		position: relative;
+		top: 34px;
+		display: inline-block !important;
+		transform: translatex(0px) translatey(0px) !important;
+	}
+
+	/* Text Area */
+	#broken textarea {
+		background-color: transparent !important;
+	}
+
+	/* Input */
+	#broken p input[type=text] {
+		background-color: transparent !important;
+	}
+
+	/* Comment form name */
+	#comment_form_name {
+		background-color: transparent !important;
+	}
+
+	/* Comment form email */
+	#comment_form_email {
+		background-color: transparent !important;
+	}
+
+	/* Link */
+	#tabs ul a {
+		border-style: none;
+		color: #ffffff;
+	}
+
+	/* List */
+	#tabs ul {
+		background-image: none;
+		background-color: transparent;
+		border-style: none;
+	}
+
+	/* Bold Tag */
+	#tabs div b {
+		color: #ffffff;
+	}
+
+	/* Info titles */
+	#tabs .gamedesc .info_titles {
+		color: #e5e5e5;
+	}
+
+	/* Game information */
+	#tabs div .game_information {
+		color: #ffffff;
+		font-weight: 500;
+	}
+
+	/* Link */
+	#tabs .gamedesc a {
+		color: #ffffff;
+		font-weight: 700;
+		text-decoration: none;
+		text-align: left;
+	}
+
+	/* Division */
+	.gamedesc > div > div > div {
+		color: #ffffff;
+	}
+
+	/* Progressbar */
+	#progressbar {
+		background-image: none;
+		background-color: transparent;
+	}
+
+	/* Info titles */
+	#tabs > div > div > .info_titles {
+		color: #ffffff;
+	}
+
+	/* Text Area */
+	#tabs div > div > textarea {
+		background-color: transparent !important;
+	}
+
+	/* Paragraph */
+	#broken p {
+		color: #ffffff;
+	}
+
+	/* Change captcha */
+	#change-captcha {
+		color: #d8d8d8 !important;
+	}
+
+	/* Button modern */
+	#broken .button-modern {
+		background-image: none;
+		background-color: transparent;
+		text-shadow: none;
+		color: #ffffff;
+		border-style: solid;
+		border-color: #ffffff;
+	}
+
+	/* Label */
+	#comment_form label {
+		color: #ffffff;
+	}
+
+	/* Captcha */
+	#captcha {
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Change image */
+	#change-image {
+		color: #ffffff !important;
+	}
+
+	/* Name input */
+	#comment_form .name-input {
+		color: #dbdbdb;
+	}
+
+	/* Span Tag */
+	#comment_form .name-input span {
+		color: #d3d3d3;
+	}
+
+	/* Captcha form */
+	#captcha-form {
+		background-color: transparent !important;
+	}
+
+	/* Comment form submit */
+	#comment_form_submit {
+		background-color: transparent;
+		background-image: none;
+		color: #ffffff;
+		text-shadow: none;
+		border-style: solid;
+		border-color: #ffffff;
+	}
+
+	/* Footer links */
+	#footer-links {
+		color: #ffffff;
+	}
+
+	/* Link */
+	#footer-links ul a {
+		color: #ffffff !important;
+		font-weight: 700;
+		font-size: 11px;
+		text-decoration: none;
+	}
+
+	/* Link */
+	#copyright a {
+		color: #ffffff;
+		text-decoration: none;
+		font-weight: 700;
+		font-size: 9px;
+	}
+
+	/* Body */
+	body {
+		background-color: #3b3b3b !important;
+	}
+
+	/* Span Tag */
+	.gplus a span {
+		color: #ffffff;
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080319357969760277/google-plus.png") !important;
+		background-size: cover !important;
+	}
+
+	/* Search container */
+	#searchContainer {
+		top: 10px;
+		left: 1007px;
+	}
+
+	/* Search box */
+	#search_box {
+		left: 69px;
+		background-color: rgba(59, 59, 59, 0.69);
+		border-style: none;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		width: 218px;
+		top: 30px;
+	}
+
+	/* Search */
+	#search {
+		background-color: rgba(59, 59, 59, 0.69);
+	}
+
+	/* Link */
+	.social .gplus a {
+		background-color: rgba(255, 255, 255, 0.07);
+		backdrop-filter: blur(2px);
+	}
+
+	#catmenu > div > ul.dropdown.hover {
+		border-bottom-right-radius: 0px !important;
+		border-bottom-left-radius: 0px !important;
+	}
+
+	/* Children */
+	#catmenu .children {
+		left: -71px;
+	}
+
+
+	/* Nav */
+	#nav {
+		background-color: rgba(59, 59, 59, 0.63);
+		background-image: none;
+		backdrop-filter: blur(2px);
+		height: 65px;
+	}
+
+	/* Link */
+	.social .twitter a {
+		background-color: rgba(255, 255, 255, 0.07);
+		backdrop-filter: blur(2px);
+	}
+
+	/* Span Tag */
+	.twitter a span {
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080320719503769600/twitter_3.png") !important;
+		background-size: cover !important;
+	}
+
+	/* Twitter */
+	.social ul .twitter {
+		background-color: rgba(0, 0, 0, 0);
+	}
+
+	/* Link */
+	.social .facebook a {
+		background-color: rgba(255, 255, 255, 0.07);
+		backdrop-filter: blur(2px);
+	}
+
+	/* Search line */
+	#search_line {
+		color: #ffffff !important;
+	}
+
+	/* Dropdown */
+	#catmenu .dropdown {
+		transform: translatex(28px) translatey(0px);
+	}
+
+
+	/* Adsbygoogle */
+	center .adsbygoogle {
+		transform: translatex(0px) translatey(0px);
+		display: none !important;
+	}
+
+	/* Image */
+	.sign_up .signupbtn img {
+		color: transparent;
+		border-style: none;
+		display: none;
+	}
+
+	/* Image */
+	.last-played a img {
+		display: none;
+	}
+
+	/* Favorites */
+	#nav .favorites {
+		display: none;
+	}
+
+	/* Logo */
+	#logo {
+		overflow: visible;
+	}
+
+	/* Image */
+	#logo a img {
+		background-size: cover;
+		height: 60px;
+		width: 60px;
+		position: relative;
+		top: -12px;
+	}
+
+	/* Dropdown */
+	#catmenu .dropdown {
+		left: -140px !important;
+	}
+
+	/* Dropdown */
+	#wrapper #container #nav #catmenu .dropContainer .dropdown {
+		left: -89px !important;
+	}
+
+	/* Social */
+	#nav .social {
+		left: 56em;
+		right: 0px;
+		bottom: 0px;
+		top: 12px;
+		width: 130px;
+		height: 40px;
+	}
+
+	/* Image */
+	.sign_in .loginbtn img {
+		display: none;
+	}
+
+	/* Search */
+	#search {
+		left: 94px;
+		background-image: none;
+		background-color: rgba(255, 255, 255, 0.07);
+		color: #000000 !important;
+		padding-left: 5px;
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Search button */
+	#search_button {
+		left: 272px;
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080329666814033960/search_1.png");
+		background-size: cover;
+	}
+
+	/* Dropdown */
+	#catmenu .dropdown {
+		left: -25px;
+	}
+
+	/* Span Tag */
+	.facebook a span {
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080327167537332336/facebook_2.png") !important;
+		background-size: cover !important;
+	}
+
+	/* Game videos icon */
+	#game-videos-icon {
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080327636951240774/video.png");
+		background-size: contain;
+		width: 40px;
+		left: 646px;
+		top: 8px;
+	}
+
+	/* Children */
+	#catmenu .children {
+		background-color: rgba(59, 59, 59, 0.69);
+		border-style: none;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		box-shadow: none;
+		transform: translatex(0px) translatey(0px);
+		width: 218px;
+		top: 36px;
+	}
+
+	/* Dropdown */
+	#catmenu .dropdown {
+		margin-left: -10px;
+	}
+
+	/* Play store link */
+	#play-store-link {
+		left: 588px;
+	}
+
+	/* Search */
+	#search {
+		left: 69px !important;
+	}
+
+	/* Search button */
+	#search_button {
+		left: 243px !important;
+	}
+
+	/* Social */
+	#nav .social {
+		left: 935px !important;
+	}
+
+	/* Play store link */
+	#play-store-link {
+		margin-left: 7px !important;
+	}
+
+	/* Game videos icon */
+	#game-videos-icon {
+		margin-left: 9px !important;
+	}
+
+	/* Dropdown */
+	#catmenu .dropdown {
+		background-color: rgba(59, 59, 59, 0.69) !important;
+		width: 100%;
+	}
+
+	/* Search */
+	#search {
+		background-color: rgba(59, 59, 59, 0.69) !important;
+	}
+
+	/* Topmenu */
+	#topmenu {
+		top: 4px;
+		left: 84px;
+	}
+
+	/* Nav */
+	#nav {
+		box-shadow: 0px 0px 14px 8px rgba(0, 0, 0, 0.66);
+	}
+
+	/* Menu item name */
+	#shooting a .menuItemName {
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Children */
+	#wrapper #container #nav #catmenu .dropContainer .children {
+		height: 565px !important;
+	}
+
+	/* Menu item name */
+	#racing a .menuItemName {
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Racing */
+	#racing {
+		margin-top: 14px;
+	}
+
+	/* Play store link */
+	#play-store-link {
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080328224917164092/playstore.png");
+		background-size: contain;
+		width: 6%;
+		left: 588px;
+		top: 8px;
+	}
+
+	/* Google play store link */
+	#google-play-store-link {
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Dropdown */
+	#catmenu .dropdown {
+		background-color: rgba(255, 255, 255, 0.07);
+		background-image: none;
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+
+	/* Hide scrollbar for Chrome, Safari and Opera */
+	::-webkit-scrollbar {
+		display: none;
+	}
+
+	/* Children */
+	#catmenu .children {
+		background-color: rgba(59, 59, 59, 0.69);
+		border-style: none;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		box-shadow: none;
+		transform: translatex(0px) translatey(0px);
+	}
+
+	/* Dropdown */
+	#catmenu .dropdown {
+		background-color: rgba(59, 59, 59, 0.69) !important;
+	}
+
+	/* Search */
+	#search {
+		background-color: rgba(59, 59, 59, 0.69) !important;
+	}
+
+	/* Topmenu */
+	#topmenu {
+		top: 4px;
+		left: 84px;
+	}
+
+	/* Nav */
+	#nav {
+		box-shadow: 0px 0px 14px 8px rgba(0, 0, 0, 0.66);
+	}
+
+	/* Menu item name */
+	#Games_Categories .menuItemName {
+		color: #ffffff;
+		text-decoration: none;
+		text-align: center;
+		font-size: 21px;
+		top: 4px;
+	}
+
+	/* Little arrow */
+	#littleArrow {
+		background-image: url("https://cdn.discordapp.com/attachments/1059120393274793984/1080330618811973793/down.png") !important;
+		background-size: cover !important;
+	}
+}
