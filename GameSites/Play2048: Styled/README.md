@@ -13,7 +13,7 @@ https://play2048.co/
 - **Version:** 1.0.0
 - **Created:** 2/20/2023, 10:08 PM
 - **Updated:** 2/20/2023, 11:25 pm
-- **License:** None
+- **License:** MIT
 
 
 

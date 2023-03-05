@@ -13,7 +13,7 @@ https://www.bestonlinekidsgames.com/
 - **Version:** 1.0.0
 - **Created:** 3/04/2023 6:42 PM
 - **Updated:** 3/04/2023 6:42 PM
-- **License:** None
+- **License:** MIT
 
 ## Notes
 - The website has undergone a significant update to enhance the user experience, including the addition of a dark mode, removal of ads, scrollbar, and changing icons.

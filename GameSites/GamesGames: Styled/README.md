@@ -13,7 +13,7 @@ https://www.gamesgames.com/
 - **Version:** 1.0.0
 - **Created:** 2/26/2023 11:37 AM
 - **Updated:** 2/26/2023 11:37 AM
-- **License:** None
+- **License:** MIT
 
 ## Notes
 - The website has undergone a series of updates designed to enhance the user experience by making it more modern, streamlined, and engaging.

@@ -13,7 +13,7 @@ https://www.y8.com/
 - **Version:** 1.0.0
 - **Created:** 3/05/2023 4:12 PM
 - **Updated:** 3/05/2023 4:12 PM
-- **License:** None
+- **License:** MIT
 
 ## Notes
 - The website has undergone some significant updates to enhance the user experience, including the addition of a dark mode, removal of the scrollbar, and elimination of all ads.

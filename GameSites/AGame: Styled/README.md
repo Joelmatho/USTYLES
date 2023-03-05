@@ -13,7 +13,7 @@ https://www.agame.com/
 - **Version:** 1.0.0
 - **Created:** 2/27/2023 3:12 AM
 - **Updated:** 2/27/2023 3:11 AM
-- **License:** None
+- **License:** MIT
 
 ## Notes
 - The website has undergone a series of updates designed to enhance the user experience by making it more modern, streamlined, and engaging.

@@ -13,7 +13,7 @@ https://www.girlsgogames.com/
 - **Version:** 1.0.0
 - **Created:** 2/27/2023 7:32 AM
 - **Updated:** 2/27/2023 7:32 AM
-- **License:** None
+- **License:** MIT
 
 ## Notes
 - The website has undergone a series of updates designed to enhance the user experience by making it more modern, streamlined, and engaging.

@@ -13,7 +13,7 @@ https://hackertyper.com/
 - **Version:** 1.0.0
 - **Created:** 11:10 AM
 - **Updated:** 11:10 AM
-- **License:** None
+- **License:** MIT
 
 ## Notes
 - The website has undergone some significant updates to enhance the user experience, including the addition of a dark mode and the removal of the scrollbar.

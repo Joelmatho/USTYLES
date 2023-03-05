@@ -13,7 +13,7 @@ https://dontevenreply.com/
 - **Version:** 1.0.0
 - **Created:** 2/21/2023, 12:36 PM
 - **Updated:** 2/21/2023, 12:36 PM
-- **License:** None
+- **License:** MIT
 
 ## Notes
 - The website has undergone some significant updates to enhance the user experience, including the addition of a dark mode, removal of the scrollbar, and elimination of all ads.

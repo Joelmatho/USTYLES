@@ -13,7 +13,7 @@ https://hackertyper.com/
 - **Version:** 1.2.0
 - **Created:** 2/21/2023, 12:58 AM
 - **Updated:** 3/03/2023, 4:23 PM
-- **License:** None
+- **License:** MIT
 
 ## Notes
 - The website has undergone significant updates to enhance the user experience, including a redesign and cleanup of the overall design to create a modern and streamlined look.
