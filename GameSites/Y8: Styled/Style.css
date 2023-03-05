@@ -1,0 +1,347 @@
+@-moz-document domain("y8.com") {
+	/* Body */
+	body {
+		background-color: #3b3b3b !important;
+	}
+
+	/* Categories tags block */
+	.container .main .categories-tags-block {
+		background-color: transparent;
+	}
+
+	/* Hide scrollbar for Chrome, Safari and Opera */
+	::-webkit-scrollbar {
+		display: none;
+	}
+
+	/* List Item */
+	.top-tags__wrapper ul li {
+		border-style: solid;
+		border-color: rgba(255, 255, 255, 0.11);
+		border-width: 1px;
+		border-top-left-radius: 12px;
+		border-top-right-radius: 12px;
+		border-bottom-left-radius: 12px;
+		border-bottom-right-radius: 12px;
+		box-shadow: 0px 0px 11px -2px #282828;
+	}
+
+	/* Link */
+	.search-trends ul a {
+		border-style: solid;
+		border-color: rgba(255, 255, 255, 0.11);
+		border-width: 1px;
+	}
+
+	/* List Item */
+	.search-trends ul li {
+		border-style: none;
+		border-color: rgba(255, 255, 255, 0.11);
+		border-top-left-radius: 12px;
+		border-top-right-radius: 12px;
+		border-bottom-left-radius: 12px;
+		border-bottom-right-radius: 12px;
+	}
+
+	/* Search trends box */
+	.container .js-search-trends .search-trends-box {
+		background-color: transparent;
+	}
+
+	/* Heading */
+	.items-grid h3 {
+		color: #ffffff !important;
+	}
+
+	/* Items grid */
+	.container .main .items-grid {
+		background-color: transparent !important;
+	}
+
+	/* Heading */
+	.container .main h1 {
+		color: #ffffff !important;
+	}
+
+	/* Heading */
+	.container .main h2 {
+		color: #ffffff !important;
+	}
+
+	/* Link */
+	.head ul a {
+		color: #ffffff !important;
+	}
+
+	/* Previous */
+	.navigator .head .previous {
+		color: #ffffff;
+	}
+
+	/* Next */
+	.navigator .head .next {
+		color: #ffffff;
+	}
+
+	/* Next (hover) */
+	.navigator .head .next:hover {
+		color: #ffffff;
+	}
+
+	/* Link (hover) */
+	.head ul a:hover {
+		color: #c1c1c1 !important;
+	}
+
+	/* Footer */
+	footer {
+		background-color: #686868 !important;
+	}
+
+	/* Paragraph */
+	.game-categories-icon .text p {
+		color: #ffffff !important;
+	}
+
+	/* Paragraph */
+	.technologies-icon .text p {
+		color: #ffffff !important;
+	}
+
+	/* Paragraph */
+	.question-icon .text p {
+		color: #ffffff !important;
+	}
+
+	/* Title */
+	.bottom-section .menu-games .title {
+		color: #ffffff;
+	}
+
+	/* Title */
+	.bottom-section .menu-updates .title {
+		color: #ffffff;
+	}
+
+	/* Title */
+	.bottom-section .menu-company .title {
+		color: #ffffff;
+	}
+
+	/* Title */
+	.bottom-section .follow-us .title {
+		color: #ffffff;
+	}
+
+	/* Image */
+	.follow-us a img {
+		color: #ffffff;
+		filter: brightness(0.99) contrast(0.89) invert(1) hue-rotate(10deg) saturate(0) sepia(0.01) !important;
+	}
+
+	/* Input */
+	.menu-company ul input {
+		color: #cccccc !important;
+	}
+
+	/* Link */
+	.menu-company ul a {
+		color: #cccccc !important;
+	}
+
+	/* Link */
+	.menu-updates ul a {
+		color: #cccccc !important;
+		font-weight: 600 !important;
+	}
+
+	/* Link */
+	.menu-games ul a {
+		color: #cccccc !important;
+		font-weight: 600 !important;
+	}
+
+	body {
+		background-color: #3b3b3b;
+	}
+
+	/* Link (hover) */
+	.menu-updates ul a:hover {
+		color: #ababab !important;
+	}
+
+	/* Link (hover) */
+	.menu-games ul a:hover {
+		color: #ababab !important;
+	}
+
+	/* Input (hover) */
+	.menu-company ul input:hover {
+		color: #ababab !important;
+	}
+
+	/* Link (hover) */
+	.menu-company ul a:hover {
+		color: #ababab !important;
+	}
+
+	/* Span Tag */
+	.bottom-section span {
+		color: #c4c4c4;
+	}
+
+	/* Image (hover) */
+	.follow-us a img:hover {
+		filter: brightness(0.99) contrast(0.89) invert(0.63) hue-rotate(10deg) saturate(0) sepia(0.01) !important;
+	}
+
+	/* Next */
+	.navigator .head .next {
+		filter: invert(1);
+	}
+
+	/* Previous */
+	.navigator .head .previous {
+		filter: invert(1);
+	}
+
+	/* Link (hover) */
+	.search-trends ul a:hover {
+		border-style: solid;
+	}
+
+	/* Navigation */
+	nav {
+		background-color: rgba(112, 112, 112, 0.75) !important;
+		backdrop-filter: blur(6.3px);
+	}
+
+	/* Input */
+	#q {
+		border-color: #ffffff;
+		border-width: 1px;
+		background-color: rgba(0, 0, 0, 0.5);
+		border-style: solid;
+		color: #ffffff;
+	}
+
+	/* Title */
+	.items-grid .girls-games-filter .title {
+		color: #ffffff;
+	}
+
+	/* Items search form */
+	#items-search-form {
+		color: #ffffff;
+	}
+
+	/* Italic Tag */
+	#items-search-form button i {
+		color: #ffffff;
+	}
+
+	/* Ads */
+	.item-show .ads {
+		display: none;
+	}
+
+	/* Div above */
+	.item-show .item-rendering .div-gpt-ad-above {
+		display: none;
+	}
+
+	/* Promo banner  cryptoserval */
+	.item-show .promo-banner--cryptoserval {
+		display: none;
+	}
+
+	/* Promo banner  forum */
+	.item-show .promo-banner--forum {
+		display: none;
+	}
+
+	/* Paragraph */
+	.footer p {
+		color: #ffffff;
+	}
+
+	/* List Item */
+	.category-text-container ul li {
+		color: #ffffff !important;
+	}
+
+	/* List */
+	.footer .category-text-container ul {
+		color: #ffffff;
+	}
+
+	/* Link */
+	.category-text-container ul a {
+		font-weight: 600;
+		text-decoration: none !important;
+		color: #cccccc !important;
+	}
+
+	/* Link (hover) */
+	.category-text-container ul a:hover {
+		color: #ababab !important;
+	}
+
+	/* Flag */
+	.navbar .container .y8-navbar-right #locale-selector-dropdown ul li .locale-chooser .flag {
+		filter: grayscale(1) !important;
+	}
+
+	/* Flag */
+	.navbar .container .y8-navbar-right #locale-selector-dropdown ul li .locale-chooser .flag:Hover {
+		filter: grayscale(0) !important;
+	}
+
+	/* Navigation */
+	nav {
+		background-color: rgba(112, 112, 112, 0.75);
+		backdrop-filter: blur(2.02px) !important;
+	}
+
+	/* Parental control */
+	.navbar .y8-navbar-right .parental-control {
+		display: none;
+	}
+
+
+	/* Link */
+	.question-icon p a {
+		font-weight: 600 !important;
+		text-decoration: none !important;
+		color: #cccccc !important;
+	}
+
+	/* Link (hover) */
+	.question-icon p a:hover {
+		color: #ababab !important;
+	}
+
+	/* Link */
+	.game-categories-icon p a {
+		color: #cccccc !important;
+		font-weight: 600 !important;
+		text-decoration: none !important;
+	}
+
+	/* Link (hover) */
+	.game-categories-icon p a:hover {
+		color: #ababab !important;
+	}
+
+	/* Link */
+	.technologies-icon p a {
+		color: #cccccc !important;
+		font-weight: 600 !important;
+		text-decoration: none !important;
+	}
+
+	/* Link (hover) */
+	.technologies-icon p a:hover {
+		color: #ababab !important;
+	}
+}
