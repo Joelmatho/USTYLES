@@ -1,4 +1,4 @@
-# BestOnlineKidsGames: Styled
+# BokGames: Styled
 
 ## Description
 We've recently updated the website with a range of new features designed to provide visitors with a more modern, streamlined, and engaging experience. These updates include the addition of a dark mode, which provides an alternative color scheme that is easier on the eyes and more energy-efficient, as well as the removal of all ads from the website, creating a more informative and engaging experience with high-quality content that meets visitors' needs. Additionally, we removed the scrollbar to create a smoother and more immersive browsing experience, making it easier for visitors to engage with the content without any distractions. To complete the update, we've also changed the icons to provide a more modern and visually appealing design, improving the aesthetics and overall look and feel of the website. These updates are aimed at creating a more user-friendly and engaging experience for visitors, with a focus on enhancing usability, aesthetics, and content quality.
