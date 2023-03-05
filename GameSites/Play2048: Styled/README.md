@@ -10,9 +10,9 @@ Joelmatho
 https://play2048.co/
 
 ## Metadata
-- **Version:** 1.0.0
+- **Version:** 1.1.0
 - **Created:** 2/20/2023, 10:08 PM
-- **Updated:** 2/20/2023, 11:25 pm
+- **Updated:** 3/05/2023, 4:22 pm
 - **License:** MIT
 
 

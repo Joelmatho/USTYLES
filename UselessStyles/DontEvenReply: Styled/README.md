@@ -10,9 +10,9 @@ Joelmatho
 https://dontevenreply.com/
 
 ## Metadata
-- **Version:** 1.0.0
-- **Created:** 2/21/2023, 12:36 PM
-- **Updated:** 2/21/2023, 12:36 PM
+- **Version:** 1.1.0
+- **Created:** 2/21/2023, 12:34 PM
+- **Updated:** 3/05/2023, 4:28 PM
 - **License:** MIT
 
 ## Notes
