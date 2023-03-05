@@ -1,4 +1,4 @@
-# Play2048: Styled 
+# 2048: Styled 
 
 ## Description
 The website has undergone a significant overhaul, resulting in a number of changes to enhance the user experience. Notably, the design has been streamlined and cleaned up to create a more visually appealing and intuitive interface. As part of this process, all ads have been removed from the website, reducing visual clutter and improving the overall aesthetic. Additionally, the scrollbar has been removed, resulting in a more seamless browsing experience for users. If you encounter any issues while using the website, please feel free to visit my Github page for further assistance. Overall, these changes are intended to make the website more enjoyable and user-friendly for visitors.
@@ -12,7 +12,7 @@ https://play2048.co/
 ## Metadata
 - **Version:** 1.1.0
 - **Created:** 2/20/2023, 10:08 PM
-- **Updated:** 3/05/2023, 4:22 pm
+- **Updated:** 3/05/2023, 11:24 PM
 - **License:** MIT
 
 
