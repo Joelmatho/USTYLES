@@ -1,7 +1,5 @@
 # AGame: Styled
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/your-username/your-repo/releases)
-
 ## Description
 We've recently updated the website to enhance the user experience by making it more modern, streamlined, and engaging. These updates include the addition of a dark mode, which provides an alternative color scheme that is easier on the eyes and more energy-efficient, as well as the removal of all ads from the website, creating a more informative and engaging experience with high-quality content that meets visitors' needs. Additionally, we removed the scrollbar to create a smoother and more immersive browsing experience, making it easier for visitors to engage with the content without any distractions. Together, these updates are aimed at creating a more user-friendly and engaging experience for visitors, with a focus on enhancing usability, aesthetics, and content quality.
 
