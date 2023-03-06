@@ -20,4 +20,4 @@ We will not disclose the identity of the reporter without their consent, unless 
 
 Please contact the following individuals if you have any questions or concerns about our security policy:
 
-- [Maintainer 1](https://github.com/[Maintainer1])
+- [Joelmatho](https://github.com/Joelmatho)
