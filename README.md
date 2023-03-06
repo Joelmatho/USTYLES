@@ -1,4 +1,5 @@
-# Stylus Userstyles Repository
+![USTYLES Banner](https://user-images.githubusercontent.com/114904150/223092260-bb0e7793-c852-477b-9667-d0dfb9e3c9e6.png)
+# USTYLES Repository
 
 Welcome to my collection of userstyles for the Stylus browser extension! My name is [Your Name], and as a web design hobbyist, I've created this repository to share my custom CSS styles for various websites that I frequent or use.
 
