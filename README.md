@@ -6,6 +6,7 @@
 
 
 
+
 Welcome to my collection of userstyles for the Stylus browser extension! My name is [Your Name], and as a web design hobbyist, I've created this repository to share my custom CSS styles for various websites that I frequent or use.
 
 In this repository, you will find a variety of userstyles that I've personally designed and tested. My styles are aimed at enhancing the visual appeal, readability, and functionality of different types of websites, and include:
