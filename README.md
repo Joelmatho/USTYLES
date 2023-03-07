@@ -3,9 +3,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) [![Join our Discord community!](https://img.shields.io/discord/1079706024006668308?color=5865F2&label=Discord&logo=discord&logoColor=ffffff&labelColor=2C2F33&style=for-the-badge)](https://discord.gg/T8AyCMVePv) [![Made with Stylus](https://img.shields.io/badge/Made%20with-Stylus-1473b9?style=for-the-badge&logo=stylus)](https://github.com/openstyles/stylus) 
 
-[![View all my userstyles](https://img.shields.io/badge/View%20all%20my%20userstyles-Check%20them%20out-brightgreen.svg?style=for-the-badge&link=https://add0n.com/stylus.html)](https://github.com/your-username?tab=repositories&q=&type=&language=stylus)
-
-
 Welcome to my collection of userstyles for the Stylus browser extension! My name is [Your Name], and as a web design hobbyist, I've created this repository to share my custom CSS styles for various websites that I frequent or use.
 
 In this repository, you will find a variety of userstyles that I've personally designed and tested. My styles are aimed at enhancing the visual appeal, readability, and functionality of different types of websites, and include:
