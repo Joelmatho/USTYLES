@@ -37,7 +37,7 @@ If any contributor or user violates our Code of Conduct, we reserve the right to
 
 ## Reporting
 
-If you witness or experience any behavior that violates our Code of Conduct, please report it immediately by contacting [insert contact person or email address]. All reports will be kept confidential and will be addressed promptly and appropriately.
+If you witness or experience any behavior that violates our Code of Conduct, please report it immediately by contacting . All reports will be kept confidential and will be addressed promptly and appropriately.
 
 ## Conclusion
 
