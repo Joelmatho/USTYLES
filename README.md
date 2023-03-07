@@ -1,6 +1,8 @@
 ![USTYLES Banner](https://user-images.githubusercontent.com/114904150/223092260-bb0e7793-c852-477b-9667-d0dfb9e3c9e6.png)
 # USTYLES Repository
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 Welcome to my collection of userstyles for the Stylus browser extension! My name is [Your Name], and as a web design hobbyist, I've created this repository to share my custom CSS styles for various websites that I frequent or use.
 
 In this repository, you will find a variety of userstyles that I've personally designed and tested. My styles are aimed at enhancing the visual appeal, readability, and functionality of different types of websites, and include:
