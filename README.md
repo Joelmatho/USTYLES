@@ -3,14 +3,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) [![Join our Discord community!](https://img.shields.io/discord/1079706024006668308?color=5865F2&label=Discord&logo=discord&logoColor=ffffff&labelColor=2C2F33&style=for-the-badge)](https://discord.gg/T8AyCMVePv) [![Made with Stylus](https://img.shields.io/badge/Made%20with-Stylus-1473b9?style=for-the-badge&logo=stylus)](https://github.com/openstyles/stylus) 
 
-![Badge](https://img.shields.io/badge/Badge-Label-Color?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACEklEQVR42rWVz2rTQBCGx5ZwFXCI1JAQUkI/CCJgAtE0VI0vIaW6z8QJbN0kcZpxk/gLoJWmyBr8QAVgLCBnFGPvz7nTcc88h/MsNyfMx/L+PUv7JlHiLnAjDGlx4Vd4t16KjXT1zXtPUZO+7VxfoNRg2C7KuJ3qJ/C2QdROc0FO0TfYOLWzLwuN/HhFpnmfJli0Nzkpu+4fSM4tMTJ4tV+RtXuG7VOKmOJxH7+OQq3u0bV5M1atdPD7ly5/cYzLaq5r5f5ZfuIK1aNRvL8rxJ1OfI6G/L+6P98f6U+aW6Bdfl2lmeo6nJkF1HuW6loG6N0nr6yLh6Mp8U6fSaRNQ2meI0M0/Vwz8/PzWlHmPG1eyyL/z+cDg8qqaCm5r5a5Z5G5R5br5Z5H4PH4fX2tTGlT3q01KtTmLx7KQ8FoNrW3dp3ZzsfLZ9KvB8h8PDg+DJYLBgRyPUzr6KjxlHb5fv5+gZ6Pn/Mvr/cAaK1ezYQqlfrCgnNl6Hj8PKdx5g5LEMDp6bm5taJv/8DLj/f1dYlpFRYS0tLS2v8btmzZozM+OxxHpURK9XvJ8vi8+IdYdRHG/fRz+Ph4Tw8PDcnJyfxsRkZGQ9+7d+TJk3C/QdjvgJSS7xSzcwzW+7VQJd+jZKXH4v+1GdnJ27d+rKjY23m81uvV6Jp8+c+JeV66ZmL/D2FhkvgmTt3/+3qKhYBefvhh0zZw5duD2dnZ0xdff+0gXV1cVaLvcuz7H+Gp/Xr1xLw+1NS5H5UoL44Li6vXn5Mmq8EY1Go1Go1Go1Go1Go1Gq8/Az3OI3CZJ+AAAAAElFTkSuQmCC>)
-
-
-
-
-
-
-
 Welcome to my collection of userstyles for the Stylus browser extension! My name is [Your Name], and as a web design hobbyist, I've created this repository to share my custom CSS styles for various websites that I frequent or use.
 
 In this repository, you will find a variety of userstyles that I've personally designed and tested. My styles are aimed at enhancing the visual appeal, readability, and functionality of different types of websites, and include:
