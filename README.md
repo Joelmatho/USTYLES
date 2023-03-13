@@ -1,9 +1,7 @@
 ![USTYLES Banner](https://user-images.githubusercontent.com/114904150/223092260-bb0e7793-c852-477b-9667-d0dfb9e3c9e6.png)
 # USTYLES Repository
 
-[![License: MIT](https:/![Mediamodifier-Design (4)](https://user-images.githubusercontent.com/114904150/224698607-0c7def8c-7081-4192-a853-602994ca92e7.svg)
-![Mediamodifier-Design (4)](https://user-images.githubusercontent.com/114904150/224698662-d82e5279-92f4-46cf-a165-f91a4a2c4a36.svg)
-/img.shields.io/badge/License-MIT-7FB3D5?style=for-the-badge&logo=none&labelColor=2C2F33)](https://opensource.org/licenses/MIT) [![Discord Community](https://img.shields.io/badge/Discord-Join%20Our%20Community-9BA3B3?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=2C2F33)](https://discord.gg/T8AyCMVePv) [![Made with Stylus](https://img.shields.io/badge/Made%20With-Stylus-D5A2A2?style=for-the-badge&logo=none&labelColor=2C2F33)](https://github.com/openstyles/stylus)
+[![License: MIT](https:/![Mediamodifier-Design (4)](https://user-images.githubusercontent.com/114904150/224698607-0c7def8c-7081-4192-a853-602994ca92e7.svg)(https://opensource.org/licenses/MIT) [![Discord Community](https://img.shields.io/badge/Discord-Join%20Our%20Community-9BA3B3?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=2C2F33)](https://discord.gg/T8AyCMVePv) [![Made with Stylus](https://img.shields.io/badge/Made%20With-Stylus-D5A2A2?style=for-the-badge&logo=none&labelColor=2C2F33)](https://github.com/openstyles/stylus)
 
 Welcome to my collection of userstyles for the Stylus browser extension! My name is [Your Name], and as a web design hobbyist, I've created this repository to share my custom CSS styles for various websites that I frequent or use.
 
