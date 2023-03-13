@@ -1,6 +1,6 @@
 # Code of Conduct
 
-## Introductionz
+## Introduction
 
 As a contributor or user of this repository, we expect that you will abide by our Code of Conduct. This document outlines our expectations for all those who participate in our community, as well as consequences for unacceptable behavior.
 
