@@ -1,5 +1,4 @@
 ![Mediamodifier-Design (4)](https://user-images.githubusercontent.com/114904150/224700423-5816dc3a-0b1d-4ac0-82a9-6c9b66777ca9.svg)
-![USTYLES Banner](https://user-images.githubusercontent.com/114904150/223092260-bb0e7793-c852-477b-9667-d0dfb9e3c9e6.png)
 # USTYLES Repository
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-7FB3D5?style=for-the-badge&logo=none&labelColor=2C2F33)](https://opensource.org/licenses/MIT) [![Discord Community](https://img.shields.io/badge/Discord-Join%20Our%20Community-9BA3B3?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=2C2F33)](https://discord.gg/T8AyCMVePv) [![Made with Stylus](https://img.shields.io/badge/Made%20With-Stylus-D5A2A2?style=for-the-badge&logo=none&labelColor=2C2F33)](https://github.com/openstyles/stylus)
