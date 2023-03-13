@@ -1,3 +1,4 @@
+![Mediamodifier-Design (4)](https://user-images.githubusercontent.com/114904150/224700423-5816dc3a-0b1d-4ac0-82a9-6c9b66777ca9.svg)
 ![USTYLES Banner](https://user-images.githubusercontent.com/114904150/223092260-bb0e7793-c852-477b-9667-d0dfb9e3c9e6.png)
 # USTYLES Repository
 
